@@ -14,3 +14,9 @@ Acest proiect contine un script in Python dezvoltat pentru generarea a doua semn
 3. Vizualizare si Salvare: Genereaza un grafic organizat cu trei subploturi (Semnal 1, Semnal 2 si Convolutia rezultata) utilizand matplotlib si salveaza automat o copie locala in format imagine (semnale_convolutie.png).
 
 ---
+
+Surse și resurse utilizate:
+- https://numpy.org/doc/2.1/reference/generated/numpy.sin.html
+- https://numpy.org/doc/stable/reference/generated/numpy.convolve.html
+- https://matplotlib.org/
+"""
